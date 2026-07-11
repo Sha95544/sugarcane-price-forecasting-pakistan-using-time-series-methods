@@ -422,11 +422,8 @@ To obtain results consistent with the report:
 
 ## Acknowledgements
 
-The historical sugar-price dataset was sourced from the Karandaaz Data Portal.
+The historical sugar-price dataset was sourced from the Karandaaz Data Portal https://portal.karandaaz.com.pk/ .
 
-## License
-
-Add the license that best matches your intended use. The MIT License is commonly used for public portfolio projects.
 
 ---
 
