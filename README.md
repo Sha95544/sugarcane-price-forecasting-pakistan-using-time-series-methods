@@ -2,7 +2,7 @@
 
 A time-series forecasting project that analyzes weekly sugar prices in Pakistan and compares multiple forecasting approaches, including ARIMA, Auto ARIMA, Holt-Winters Exponential Smoothing, and Random Forest regression.
 
-> **Note:** The original project report uses the phrase *sugarcane prices* in its title, but the dataset and analysis focus on **retail sugar prices in PKR per kilogram**.
+> **Note:** The original project report uses the phrase *sugar prices* in its title, but the dataset and analysis focus on **retail sugar prices in PKR per kilogram**.
 
 ## Project Overview
 
