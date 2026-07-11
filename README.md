@@ -1,4 +1,4 @@
-# Sugar Price Forecasting in Pakistan
+# Sugar Price Forecasting in Pakistan using Time Series Methods
 
 A time-series forecasting project that analyzes weekly sugar prices in Pakistan and compares multiple forecasting approaches, including ARIMA, Auto ARIMA, Holt-Winters Exponential Smoothing, and Random Forest regression.
 
